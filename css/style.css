@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'endor';
+    src: url(../endor/ENDORALT.ttf);
+    src: url(../endor/ENDOR___.ttf);
+}
+
+h1 {
+    font-family: 'endor', serif;
+}
+
 .sword-cursor {
     cursor: url(../img/sword.png), pointer;
 }
